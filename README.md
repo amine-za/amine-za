@@ -3,7 +3,7 @@
 I am a **Software Engineer (1337/42 Network)** specializing in **Backend Systems** and **DevOps Infrastructure**. I combine low-level C/Linux knowledge with modern Python/Docker deployment strategies.
 
 -  **Citizenship:** Dutch (EU) - Available for immediate relocation (No Visa required).
--  **Current Focus:** Scaling [AirbCar](https://github.com/amine-za/Tourisoo-AirbCar) using Docker & CI/CD.
+-  **Current Focus:** Scaling AirbCar using Docker & CI/CD.
 -  **Core Stack:** Python (Django), C++, Linux (Bash), Docker, SQL.
 -  **Target Stack:** Kubernetes & AWS.
 
