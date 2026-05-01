@@ -1,9 +1,9 @@
 ### Hi there, Im Amine
 
-I am a **Software Engineer (1337/42 Network)** specializing in **DevOps Infrastructure** and **System Administration**. I combine low-level C/Linux knowledge with modern Python/Docker deployment strategies.
+I am a **Software Engineer (1337/42 Network)** specializing in **DevOps Infrastructure** and **System Administration**. I combine low-level C/Linux/OOP knowledge with modern Python/Docker deployment strategies.
 
 -  **Citizenship:** Dutch (EU) - Available for immediate relocation (No Visa required).
--  **Current Focus:** Scaling AirbCar using Docker & CI/CD.
+-  **Current Focus:** Seeking a new experience to start.
 -  **Core Stack:** Python (Django), C++, Linux (Bash), Docker, SQL.
 -  **Target Stack:** Kubernetes & AWS.
 
