@@ -5,7 +5,7 @@ I am a **Junior Software Engineer** specializing in **DevOps Infrastructure** an
 -  **Citizenship:** Dutch (EU).
 -  **Current Focus:** Seeking a new experience to start.
 -  **Core Stack:** Python, C++, Linux, Docker, SQL, basic Azure DevOps.
--  **Target Stack:** Azure & AWS.
+-  **Target Stack:** C# & AWS.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
